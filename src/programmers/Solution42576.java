@@ -2,14 +2,20 @@ package programmers;
 import java.util.*;
 
 public class Solution42576 {	//해시 완주하지 못한 선수
-    public String solution(String[] participant, String[] completion) {
-    	Arrays.sort(participant);
-        Arrays.sort(completion);
-        String answer = participant[participant.length-1];
+	public static void main(String[] args) {
+		String[] p = {"mislav", "stanko", "mislav", "ana"};
+        String[] c = {"stanko", "ana", "mislav"};
+        System.out.println(solution(p,c));
+	}
+    public static String solution(String[] participant, String[] completion) {
+    	String answer = "";
+        HashMap<String, Integer> hash = new HashMap<>();
+        for (String player : participant) hash.put(player, hash.getOrDefault(player, 0) + 1);
+        for (String player : completion) hash.put(player, hash.get(player) - 1);
         
-        for(int i=0; i<completion.length; i++) {
-            if(!participant[i].equals(completion[i])) {
-                answer = participant[i];
+        for (String key : hash.keySet()) {
+            if (hash.get(key) != 0){
+                answer = key;
                 break;
             }
         }
