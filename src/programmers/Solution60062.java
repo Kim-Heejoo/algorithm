@@ -11,10 +11,11 @@ public class Solution60062 {	//2020 KAKAO BLIND RECRUITMENT > 외벽 점검
 	}
 	
 	static boolean check;
-	static int[] d;
+	static int[] w,d;
     public static int solution(int n, int[] weak, int[] dist) {
         int answer = 0;
         d = dist;
+        w = weak;
         
         for (int i = 1; i <= dist.length; i++) {
         	boolean[] wall = new boolean[n];
@@ -42,11 +43,11 @@ public class Solution60062 {	//2020 KAKAO BLIND RECRUITMENT > 외벽 점검
     		return;
     	}
     	
-    	for (int i = 0; i < wall.length; i++) {
-			if(wall[i]) {
+    	for (int i = 0; i < w.length; i++) {
+			if(wall[w[i]]) {
 				List<Integer> list = new ArrayList<>();
 				
-				int idx = i;
+				int idx = w[i];
 				for (int j = 0; j <= d[d.length-n-1]; j++) {
 					if(wall[idx]) {
 						list.add(idx);
