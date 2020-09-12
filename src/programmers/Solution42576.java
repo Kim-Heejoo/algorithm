@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42576 {	//ÇØ½Ã ¿ÏÁÖÇÏÁö ¸øÇÑ ¼±¼ö
+public class Solution42576 {	//í•´ì‹œ ì™„ì£¼í•˜ì§€ ëª»í•œ ì„ ìˆ˜
 	public static void main(String[] args) {
 		String[] p = {"mislav", "stanko", "mislav", "ana"};
         String[] c = {"stanko", "ana", "mislav"};

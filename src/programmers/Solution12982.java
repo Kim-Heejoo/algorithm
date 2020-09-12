@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution12982 {	//Summer/Winter Coding(~2018) > ¿¹»ê
+public class Solution12982 {	//Summer/Winter Coding(~2018) > ì˜ˆì‚°
 	public static void main(String[] args) {
 		int[] d = {1,3,2,5,4};
 		int budget = 9;

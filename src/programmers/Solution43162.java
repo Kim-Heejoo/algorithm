@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution43162 {	//表捞/呈厚 快急 沤祸(DFS/BFS) 匙飘况农
+public class Solution43162 {	//旯婌澊/雱堧箘 鞖办劆 韮愳儔(DFS/BFS) 雱ろ姼鞗岉伂
 	static boolean[] visited;
     public int solution(int n, int[][] computers) {
         int answer = 0;

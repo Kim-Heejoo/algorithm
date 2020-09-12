@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution43165 {	//±íÀÌ/³Êºñ ¿ì¼± Å½»ö(DFS/BFS) Å¸°Ù ³Ñ¹ö
+public class Solution43165 {	//ê¹Šì´/ë„ˆë¹„ ìš°ì„  íƒìƒ‰(DFS/BFS) íƒ€ê²Ÿ ë„˜ë²„
 	static int answer;
     public int solution(int[] numbers, int target) {
         answer = 0;

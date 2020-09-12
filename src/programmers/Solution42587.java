@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42587 {	//½ºÅÃ/Å¥ > ÇÁ¸°ÅÍ
+public class Solution42587 {	//ìŠ¤íƒ/í > í”„ë¦°í„°
 	public static void main(String[] args) {
 		int[] priorities = {1, 1, 9, 1, 1, 1};
         System.out.println(solution(priorities, 0));

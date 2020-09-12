@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-public class Solution42888 {	//2019 KAKAO BLIND RECRUITMENT > ¿ÀÇÂÃ¤ÆÃ¹æ
+public class Solution42888 {	//2019 KAKAO BLIND RECRUITMENT > ì˜¤í”ˆì±„íŒ…ë°©
 	public static void main(String[] args) {
 		String[] record = {"Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"};
 		System.out.println(Arrays.toString(solution(record)));
@@ -27,9 +27,9 @@ public class Solution42888 {	//2019 KAKAO BLIND RECRUITMENT > ¿ÀÇÂÃ¤ÆÃ¹æ
         for (int i = 0; i < answer.length; i++) {
 			Chat chat = queue.poll();
 			if(chat.enter) {
-				answer[i] = hm.get(chat.id)+"´ÔÀÌ µé¾î¿Ô½À´Ï´Ù.";
+				answer[i] = hm.get(chat.id)+"ë‹˜ì´ ë“¤ì–´ì™”ìŠµë‹ˆë‹¤.";
 			}else {
-				answer[i] = hm.get(chat.id)+"´ÔÀÌ ³ª°¬½À´Ï´Ù.";
+				answer[i] = hm.get(chat.id)+"ë‹˜ì´ ë‚˜ê°”ìŠµë‹ˆë‹¤.";
 			}
 		}
         

@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution67257 {	//2020 Ä«Ä«¿À ÀÎÅÏ½Ê > ¼ö½Ä ÃÖ´ëÈ­
+public class Solution67257 {	//2020 ì¹´ì¹´ì˜¤ ì¸í„´ì‹­ > ìˆ˜ì‹ ìµœëŒ€í™”
 	public static void main(String[] args) {
         System.out.println(solution("100-200*300-500+20"));
 	}

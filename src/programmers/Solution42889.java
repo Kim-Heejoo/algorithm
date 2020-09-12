@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-public class Solution42889 {	//2019 KAKAO BLIND RECRUITMENT > ½ÇÆĞÀ²
+public class Solution42889 {	//2019 KAKAO BLIND RECRUITMENT > ì‹¤íŒ¨ìœ¨
 	public static void main(String[] args) {
 		int N = 5;
 		int[] stages = {2, 1, 2, 6, 2, 4, 3, 3};

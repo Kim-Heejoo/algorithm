@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-public class Solution43163 {	//±íÀÌ/³Êºñ ¿ì¼± Å½»ö(DFS/BFS) ´Ü¾î º¯È¯
+public class Solution43163 {	//ê¹Šì´/ë„ˆë¹„ ìš°ì„  íƒìƒ‰(DFS/BFS) ë‹¨ì–´ ë³€í™˜
 	static boolean[] visited;
     public int solution(String begin, String target, String[] words) {
         int answer = 0;

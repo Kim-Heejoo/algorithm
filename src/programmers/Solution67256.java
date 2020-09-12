@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution67256 {	//2020 Ä«Ä«¿À ÀÎÅÏ½Ê > Å°ÆÐµå ´©¸£±â
+public class Solution67256 {	//2020 ì¹´ì¹´ì˜¤ ì¸í„´ì‹­ > í‚¤íŒ¨ë“œ ëˆ„ë¥´ê¸°
 	public static void main(String[] args) {
 		int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};
 		String hand = "right";

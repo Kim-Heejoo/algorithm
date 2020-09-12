@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42584 {	//½ºÅÃ/Å¥ > ÁÖ½Ä°¡°İ
+public class Solution42584 {	//ìŠ¤íƒ/í > ì£¼ì‹ê°€ê²©
 	public static void main(String[] args) {
 		int[] prices = {1, 2, 3, 2, 3};
         System.out.println(Arrays.toString(solution(prices)));

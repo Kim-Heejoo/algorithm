@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42576_2 {	//ÇØ½Ã ¿ÏÁÖÇÏÁö ¸øÇÑ ¼±¼ö
+public class Solution42576_2 {	//í•´ì‹œ ì™„ì£¼í•˜ì§€ ëª»í•œ ì„ ìˆ˜
     public String solution(String[] participant, String[] completion) {
     	Arrays.sort(participant);
         Arrays.sort(completion);

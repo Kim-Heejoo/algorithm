@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution17681 {	//2018 KAKAO BLIND RECRUITMENT > [1Â÷] ºñ¹ĞÁöµµ
+public class Solution17681 {	//2018 KAKAO BLIND RECRUITMENT > [1ì°¨] ë¹„ë°€ì§€ë„
 	public static void main(String[] args) {
 		int n = 5;
 		int[] arr1 = {9, 20, 28, 18, 11};

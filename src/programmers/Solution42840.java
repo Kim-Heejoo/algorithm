@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42840 {	//¿ÏÀüÅ½»ö > ¸ğÀÇ°í»ç
+public class Solution42840 {	//ì™„ì „íƒìƒ‰ > ëª¨ì˜ê³ ì‚¬
 	public static void main(String[] args) {
 		int[] answers = {1,2,3,4,5};
 		int[] student = solution(answers);

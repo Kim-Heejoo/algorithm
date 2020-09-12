@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution67258 {	//2020 ƒ´ƒ´ø¿ ¿Œ≈œΩ  > ∫∏ºÆ ºÓ«Œ
+public class Solution67258 {	//2020 Ïπ¥Ïπ¥Ïò§ Ïù∏ÌÑ¥Ïã≠ > Î≥¥ÏÑù ÏáºÌïë
 	public static void main(String[] args) {
 		String[] gems = {"DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"};
         System.out.println(Arrays.toString(solution(gems)));

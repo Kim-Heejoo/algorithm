@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42862 {	//Å½¿å¹ý(Greedy) > Ã¼À°º¹
+public class Solution42862 {	//íƒìš•ë²•(Greedy) > ì²´ìœ¡ë³µ
 	public static void main(String[] args) {
 		int n = 5;
 		int[] lost = {2,4};

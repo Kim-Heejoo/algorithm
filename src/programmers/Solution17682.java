@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution17682 {	//2018 KAKAO BLIND RECRUITMENT > [1Â÷] ´ÙÆ® °ÔÀÓ
+public class Solution17682 {	//2018 KAKAO BLIND RECRUITMENT > [1ì°¨] ë‹¤íŠ¸ ê²Œìž„
 	public static void main(String[] args) {
         System.out.println(solution("1D2S3T*"));
 	}
