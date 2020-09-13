@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-public class Solution42889 {	//2019 KAKAO BLIND RECRUITMENT > 실패율
+public class Solution42889_실패율 {	//2019 KAKAO BLIND RECRUITMENT > 실패율
 	public static void main(String[] args) {
 		int N = 5;
 		int[] stages = {2, 1, 2, 6, 2, 4, 3, 3};

@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42584 {	//스택/큐 > 주식가격
+public class Solution42584_주식가격 {	//스택/큐 > 주식가격
 	public static void main(String[] args) {
 		int[] prices = {1, 2, 3, 2, 3};
         System.out.println(Arrays.toString(solution(prices)));

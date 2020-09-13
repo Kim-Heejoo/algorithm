@@ -1,8 +1,6 @@
 package programmers;
 
-import java.util.*;
-
-public class Solution43163 {	//깊이/너비 우선 탐색(DFS/BFS) 단어 변환
+public class Solution43163_단어변환 {	//깊이/너비 우선 탐색(DFS/BFS) > 단어 변환
 	static boolean[] visited;
     public int solution(String begin, String target, String[] words) {
         int answer = 0;

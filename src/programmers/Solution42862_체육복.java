@@ -1,7 +1,6 @@
 package programmers;
-import java.util.*;
 
-public class Solution42862 {	//탐욕법(Greedy) > 체육복
+public class Solution42862_체육복 {	//탐욕법(Greedy) > 체육복
 	public static void main(String[] args) {
 		int n = 5;
 		int[] lost = {2,4};

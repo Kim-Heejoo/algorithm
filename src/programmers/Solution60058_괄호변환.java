@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Stack;
 
-public class Solution60058 {	//2020 KAKAO BLIND RECRUITMENT > 괄호 변환
+public class Solution60058_괄호변환 {	//2020 KAKAO BLIND RECRUITMENT > 괄호 변환
 	public static void main(String[] args) {
         System.out.println(solution("(()())()"));
 	}

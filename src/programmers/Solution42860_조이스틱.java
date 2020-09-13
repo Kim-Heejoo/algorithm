@@ -1,7 +1,6 @@
 package programmers;
-import java.util.*;
 
-public class Solution42860 {	//탐욕법(Greedy) > 조이스틱
+public class Solution42860_조이스틱 {	//탐욕법(Greedy) > 조이스틱
 	public static void main(String[] args) {
 		System.out.println(solution("JEROEN"));
 	}

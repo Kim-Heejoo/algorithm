@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42587 {	//스택/큐 > 프린터
+public class Solution42587_프린터 {	//스택/큐 > 프린터
 	public static void main(String[] args) {
 		int[] priorities = {1, 1, 9, 1, 1, 1};
         System.out.println(solution(priorities, 0));

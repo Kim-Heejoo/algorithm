@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main13460 {	// 구슬 탈출 2
+public class Main13460_구슬탈출2 {	// 구슬 탈출 2
 	static char[][] map;
 	static Queue<Bead> que;
 	static int[][][][] visited = new int[10][10][10][10];

@@ -3,7 +3,7 @@ package programmers;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution60062 {	//2020 KAKAO BLIND RECRUITMENT > 외벽 점검
+public class Solution60062_외벽점검 {	//2020 KAKAO BLIND RECRUITMENT > 외벽 점검
 	public static void main(String[] args) {
 		int[] weak = {1, 3, 4, 9, 10};
 		int[] dist = {3, 5, 7};

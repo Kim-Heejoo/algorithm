@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution67257 {	//2020 카카오 인턴십 > 수식 최대화
+public class Solution67257_수식최대화 {	//2020 카카오 인턴십 > 수식 최대화
 	public static void main(String[] args) {
         System.out.println(solution("100-200*300-500+20"));
 	}

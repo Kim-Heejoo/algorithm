@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.HashMap;
 
-public class Solution17677 {	//2018 KAKAO BLIND RECRUITMENT > [1차] 뉴스 클러스터링
+public class Solution17677_뉴스클러스터링 {	//2018 KAKAO BLIND RECRUITMENT > [1차] 뉴스 클러스터링
 	public static void main(String[] args) {
 		System.out.println(solution("FRANCE", "french"));
 		System.out.println(solution("handshake", "shake hands"));

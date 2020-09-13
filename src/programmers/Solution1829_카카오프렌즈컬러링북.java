@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution1829 {	//2017 카카오코드 예선 > 카카오프렌즈 컬러링북
+public class Solution1829_카카오프렌즈컬러링북 {	//2017 카카오코드 예선 > 카카오프렌즈 컬러링북
 	public static void main(String[] args) {
 		int m = 6;
 		int n = 4;

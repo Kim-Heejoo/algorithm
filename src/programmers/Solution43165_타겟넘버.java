@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution43165 {	//깊이/너비 우선 탐색(DFS/BFS) 타겟 넘버
+public class Solution43165_타겟넘버 {	//깊이/너비 우선 탐색(DFS/BFS) > 타겟 넘버
 	static int answer;
     public int solution(int[] numbers, int target) {
         answer = 0;

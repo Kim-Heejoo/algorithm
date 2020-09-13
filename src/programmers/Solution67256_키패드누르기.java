@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution67256 {	//2020 카카오 인턴십 > 키패드 누르기
+public class Solution67256_키패드누르기 {	//2020 카카오 인턴십 > 키패드 누르기
 	public static void main(String[] args) {
 		int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};
 		String hand = "right";

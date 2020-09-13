@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution67258 {	//2020 카카오 인턴십 > 보석 쇼핑
+public class Solution67258_보석쇼핑 {	//2020 카카오 인턴십 > 보석 쇼핑
 	public static void main(String[] args) {
 		String[] gems = {"DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"};
         System.out.println(Arrays.toString(solution(gems)));

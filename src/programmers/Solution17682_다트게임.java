@@ -1,7 +1,6 @@
 package programmers;
-import java.util.*;
 
-public class Solution17682 {	//2018 KAKAO BLIND RECRUITMENT > [1차] 다트 게임
+public class Solution17682_다트게임 {	//2018 KAKAO BLIND RECRUITMENT > [1차] 다트 게임
 	public static void main(String[] args) {
         System.out.println(solution("1D2S3T*"));
 	}

@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Arrays;
 
-public class Solution60061 {	//2020 KAKAO BLIND RECRUITMENT > 기둥과 보 설치
+public class Solution60061_기둥과보설치 {	//2020 KAKAO BLIND RECRUITMENT > 기둥과 보 설치
 	public static void main(String[] args) {
 //		int[][] build_frame = {{1,0,0,1},{1,1,1,1},{2,1,0,1},{2,2,1,1},{5,0,0,1},{5,1,0,1},{4,2,1,1},{3,2,1,1}};
 		int[][] build_frame = {{0,0,0,1},{2,0,0,1},{4,0,0,1},{0,1,1,1},{1,1,1,1},{2,1,1,1},{3,1,1,1},{2,0,0,0},{1,1,1,0}, {2,2,0,1}};

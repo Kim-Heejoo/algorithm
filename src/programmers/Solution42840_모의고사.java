@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42840 {	//완전탐색 > 모의고사
+public class Solution42840_모의고사 {	//완전탐색 > 모의고사
 	public static void main(String[] args) {
 		int[] answers = {1,2,3,4,5};
 		int[] student = solution(answers);

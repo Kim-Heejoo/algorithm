@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution60059 {	//2020 KAKAO BLIND RECRUITMENT > 자물쇠와 열쇠
+public class Solution60059_자물쇠와열쇠 {	//2020 KAKAO BLIND RECRUITMENT > 자물쇠와 열쇠
 	public static void main(String[] args) {
 		int[][] key = {{0,0,0},{1,0,0},{0,1,1}};
 		int[][] lock = {{1,1,1},{1,1,0},{1,0,1}};

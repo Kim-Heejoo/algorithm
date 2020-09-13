@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution60057 {	//2020 KAKAO BLIND RECRUITMENT > 문자열 압축
+public class Solution60057_문자열압축 {	//2020 KAKAO BLIND RECRUITMENT > 문자열 압축
 	public static void main(String[] args) {
         System.out.println(solution("aabbaccc"));
 	}

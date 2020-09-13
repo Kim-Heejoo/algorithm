@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution43162 {	//깊이/너비 우선 탐색(DFS/BFS) 네트워크
+public class Solution43162_네트워크 {	//깊이/너비 우선 탐색(DFS/BFS) > 네트워크
 	static boolean[] visited;
     public int solution(int n, int[][] computers) {
         int answer = 0;

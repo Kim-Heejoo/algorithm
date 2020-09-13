@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Solution42576 {	//해시 완주하지 못한 선수
+public class Solution42576_완주하지못한선수 {	//해시 > 완주하지 못한 선수
 	public static void main(String[] args) {
 		String[] p = {"mislav", "stanko", "mislav", "ana"};
         String[] c = {"stanko", "ana", "mislav"};
