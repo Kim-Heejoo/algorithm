@@ -1,10 +1,9 @@
-package programmers;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Main17472_´Ù¸®¸¸µé±â2 {	// ´Ù¸® ¸¸µé±â 2
+public class Main17472_ë‹¤ë¦¬ë§Œë“¤ê¸°2 {	// ë‹¤ë¦¬ ë§Œë“¤ê¸° 2
 	static int R,C;
 	static int[][] map;
 	static int ans=-1;
